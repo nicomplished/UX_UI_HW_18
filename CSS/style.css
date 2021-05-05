@@ -25,7 +25,55 @@
     margin-left: auto;
 }
 
-/* Footer classes */
+/* Title */
+.content {
+    width: 800px;
+    background-color: #EFBDBD;
+    margin-bottom: 60px;
+}
+
+.heroText1 {
+    color: white;
+    padding-left: 60px;
+}
+
+.pageHeader1 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+
+/* PROJECTS */
+.myWork {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.projects {
+    margin: 0 30px;
+    width: 300px;
+}
+
+.projectIMG {
+    height: 240px;
+    width: 300px;
+    /* border: 1px solid black; */
+}
+
+.titles{
+    font-family: 'Abel', sans-serif;
+    font-size: 24px;
+    font-weight: lighter;
+    color: #643535;
+    margin-top: 5px;
+    text-align: center;
+}
+
+/* Foo
+
+
+ter classes */
 
 .footerStyle {
     height: 270px;
